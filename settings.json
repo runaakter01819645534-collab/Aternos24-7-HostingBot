@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "	multiversesmps1.cbu.net",
+    "ip": "multiversesmps1.cbu.net",
     "port":  36382,
     "version": "",
     "try-creative": false
